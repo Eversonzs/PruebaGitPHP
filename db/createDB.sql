@@ -1,0 +1,1 @@
+create database if not exists pruebaGitHub DEFAULT CHARACTER SET utf8  DEFAULT COLLATE utf8_bin;
