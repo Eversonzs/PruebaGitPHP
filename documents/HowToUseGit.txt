@@ -1,0 +1,16 @@
+Comandos en git shell
+
+Para iniciar el proyecto
+En git shell ubicarse dentro de la carpeta donde va a estar todo el proyecto:
+git init
+
+Agregar repositorio remoto:
+git remote add origin "URL del proyecto en gitHub"
+
+Halar archivos de gitHub (download):
+git pull origin master
+
+Mandar archivos a gitHub (upload):
+git add .
+git commit -m "Escribir aqui un comentario de lo que estas actualizando"
+git push origin master
